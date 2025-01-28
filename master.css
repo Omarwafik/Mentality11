@@ -80,7 +80,7 @@ button{
 
 main{
     height: 100vh;
-    background: linear-gradient(rgb(0, 0, 0,0.55),rgb(0, 0, 0,0.55)),url(../img/desktop-wallpaper-best-4-army-bodybuilding-on-hip-lean-body.jpg);
+    background: linear-gradient(rgb(0, 0, 0,0.55),rgb(0, 0, 0,0.55)),url(desktop-wallpaper-best-4-army-bodybuilding-on-hip-lean-body.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-position: center; */
